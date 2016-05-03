@@ -1,6 +1,7 @@
 
 from setuptools import setup, find_packages
 
+#Add one more test line --  can remove it!!!
 setup(
     name           = 'EggDemo',
     version        = '1.0',
