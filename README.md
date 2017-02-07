@@ -1,14 +1,12 @@
-# Hello-World
-follow GitHub guide to setup first repository
+## Hello-World
+### Can we use Markdown
 
-Begin with Github
+```python
+import os
 
-Need test on git commit amend on github
-
-Make it Happen Now!
-
-Begin Test on git amend on long history commit -- Rebsed!!!
-
--- Follow on link:
-https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
+def test_function():
+  print "Yeah"
+  
+if __name__ == "__main__":
+  test_function()
 
